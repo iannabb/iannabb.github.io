@@ -4,3 +4,30 @@ h1, h2, p {
 
 
 body{background-color: #9f9691}
+
+#welcome-text {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+
+#table-background {
+	background-color: #F8F5E1;
+}
+
+#headshot {
+	padding: 2em 0em 1em 0em;
+	width: 300px;
+}
+
+td, th {
+	border: 1px solid #999;
+	padding: 0.5em;
+}
+
+#centeralign {
+	display: block;
+	text-align: center;
+	width: 400px;
+	margin: auto;
+}
